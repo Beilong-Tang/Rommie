@@ -1,7 +1,6 @@
 ## Rommie Features
 
 
-
 **FrontEnd**
 Using Wechat Developer Tools (Learning).
 
@@ -10,7 +9,12 @@ Can use django template. Might need a valid url for future deployment.
 
 ## To-do
 
+## Next Week.
 Recruit programmer.
+完善问卷。
+交互。
+招人海报。
+
 
 Due date: 2023/5/..
 
