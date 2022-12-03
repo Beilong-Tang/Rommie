@@ -10,6 +10,8 @@ Can use django template. Might need a valid url for future deployment.
 
 ## To-do
 
+Recruit programmer.
+
 Due date: 2023/5/..
 
 - Formalize the Interaction between pages.
