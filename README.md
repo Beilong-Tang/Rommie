@@ -22,4 +22,3 @@ Features:
 - User Information (Logging in, VIP ..., characteristic).
 - Forum (社区)
 - Chat with person.
-- djfdsfsdf
