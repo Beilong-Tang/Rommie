@@ -17,6 +17,8 @@ Can use django template. Might need a valid url for future deployment.
 
 Recruit programmer.
 
+写原型
+
 发招人海报
 
 Due date: 2023/5/..
